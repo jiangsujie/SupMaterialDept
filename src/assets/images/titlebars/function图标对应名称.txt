@@ -1,0 +1,85 @@
+功能区图标：16 * 16（采购药品使用）
+
+总标题背景色：#5C879D
+
+背景底图：base_map3_function.png（3 * 37）
+
+分 隔 条：list separator5_function.png（5 * 35）
+
+打印          print16_function.png
+              print16_function_disabled.png
+
+输出          exp16_function.png
+              exp16_function_disabled.png
+
+自动          automatism16_function.png
+              automatism16_function_disabled.png
+
+新建          new16_function_disabled.png
+              new16_function_disabled.png
+
+增加          add16_function.png
+              add16_function_disabled.png
+
+修改          change16_function.png
+              change16_function_disabled.png
+
+删除          delete16_function.png
+              delete16_function_disabled.png
+
+保存          save16_function.png
+              save16_function_disabled.png
+
+放弃          quit16_function.png
+              quit16_function_disabled.png
+
+审核          auditing16_function.png
+              auditing16_function_disabled.png
+
+作废          abandon16_function.png
+              abandon16_function_disabled.png
+
+增行          addrow16_function.png
+              addrow16_function_disabled.png
+
+减行（无）          decrow16_function.png
+              decrow16_function_disabled.png
+
+申单          genBill16_function.png
+              genBill16_function_disabled.png
+
+查找          query16_function.png
+              query16_function_disabled.png
+
+盘库          plan16_function.png
+			  plan16_function_disabled.png	
+
+首页          page-first16_function.png
+              page-first16_function_disabled.png
+
+上张          page-prev16_function.png
+              page-prev16_function_disabled.png
+
+下张          page-next16_function.png
+              page-next16_function_disabled.png
+
+末张          page-last16_function.png
+              page-last16_function_disabled.png
+
+末张          page-last16_function.png
+              page-last16_function_disabled.png
+
+刷新          refurbish16_function.png
+              refurbish16_function_disabled.png
+
+帮助          help16_function.png
+              help16_function_disabled.png
+
+退出          exit16_function.png
+              exit16_function_disabled.png
+
+
+
+
+
+
